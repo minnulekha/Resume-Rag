@@ -2,7 +2,7 @@ streamlit==1.35.0
 langchain==0.2.6
 langchain-community==0.2.6
 langchain-groq==0.1.6
-faiss-cpu==1.8.0
+faiss-cpu
 sentence-transformers==2.7.0
 transformers==4.41.2
 huggingface-hub==0.23.4
